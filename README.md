@@ -34,7 +34,7 @@ php artisan test
 
 POST /api/progress
 
-🔸 Body JSON
+🔸 Example Body JSON
 {
   "employee_id": 1,
   "goal_id": 2,
